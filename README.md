@@ -1,4 +1,7 @@
 slip
 ====
+Small LISP Interpreting Program
 
-A LISP interpreter for TI-83+ calculators
+Slip is a LISP interpreter written in z80 assembly for TI calculators running KnightOS.
+
+Currently a work in progress.
